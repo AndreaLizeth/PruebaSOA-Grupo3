@@ -11,7 +11,8 @@
 		"anio_produccion": "2016",
 		"formato": "3D",
 		"director": "Alan King",
-		"clasificacion": "B"
+		"clasificacion": "B",
+	     	"imagen": "https://i1.wp.com/elsolnewsmedia.com/wp-content/uploads/2020/10/1601498876_582320_1601498920_noticia_normal.jpg?resize=750%2C375&ssl=1"
 	},
 	{
 		"titulo": "Mujer maravilla",
@@ -23,7 +24,8 @@
 		"anio_produccion": "2020",
 		"formato": "3D",
 		"director": "Camila Crrillo",
-		"clasificacion": "A"
+		"clasificacion": "A",
+		"imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSNuQHrsPeVHiab8vlU-tfS-btQ8jednhQpH0jgcyrLJODBPk72"
 	},
 	{
 		"titulo": "Batman",
@@ -35,7 +37,8 @@
 		"anio_produccion": "2018",
 		"formato": "3D",
 		"director": "Jon Morrison",
-		"clasificacion": "C"
+		"clasificacion": "C",
+		"imagen": "https://as.com/meristation/imagenes/2020/07/14/noticias/1594714732_417387_1594714761_noticia_normal.jpg"
 	},
 	{
 		"titulo": "Capitan America",
@@ -47,7 +50,8 @@
 		"anio_produccion": "2020",
 		"formato": "2D",
 		"director": "Dwany Jonson",
-		"clasificacion": "A"
+		"clasificacion": "A",
+		"imagen": "https://consolaytablero.com/wp-content/uploads/2020/07/Capitán-América-Fortnite-752x440.jpg"
 	},
 	{
 		"titulo": "Ant Man",
@@ -59,7 +63,8 @@
 		"anio_produccion": "2015",
 		"formato": "3D",
 		"director": "Cameron Jonson",
-		"clasificacion": "A"
+		"clasificacion": "A",
+		"imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSEmZLAmpYpUhwsc79p3-ykHBfMjq8uiudaBMY6uFRtSxurkKyX"
 	}
    ]
 }
